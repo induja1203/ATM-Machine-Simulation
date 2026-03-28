@@ -1,0 +1,17 @@
+# OS files
+desktop.ini
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment (if you use later)
+venv/
+env/
+
+# Environment variables (important for security)
+.env
+
+# VS Code settings (optional)
+.vscode/
